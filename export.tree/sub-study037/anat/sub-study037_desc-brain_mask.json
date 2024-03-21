@@ -1,7 +1,0 @@
-{
-  "RawSources": [
-    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds001417-fmriprep/sourcedata/raw/sub-study037/ses-after/anat/sub-study037_ses-after_T1w.nii.gz",
-    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds001417-fmriprep/sourcedata/raw/sub-study037/ses-before/anat/sub-study037_ses-before_T1w.nii.gz"
-  ],
-  "Type": "Brain"
-}
